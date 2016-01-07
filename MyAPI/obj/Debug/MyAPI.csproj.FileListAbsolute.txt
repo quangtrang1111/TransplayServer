@@ -1,0 +1,311 @@
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\MyAPI.dll.config
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\MyAPI.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\MyAPI.pdb
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Antlr3.Runtime.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\AutoMapper.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\EntityFramework.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\EntityFramework.SqlServer.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Microsoft.Data.Edm.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Microsoft.Data.OData.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Microsoft.Owin.Cors.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Microsoft.Owin.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Microsoft.Owin.Security.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Newtonsoft.Json.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Owin.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\ServicePointManagerExtensions.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Net.Http.Formatting.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Spatial.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.Cors.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.Helpers.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.Http.Cors.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.Http.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.Http.OData.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.Http.Owin.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.Http.Tracing.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.Http.WebHost.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.Mvc.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.Optimization.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.Providers.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.Razor.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.WebPages.Deployment.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.WebPages.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.WebPages.Razor.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\WebGrease.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\AutoMapper.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\EntityFramework.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\EntityFramework.SqlServer.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Microsoft.Owin.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Microsoft.Owin.Cors.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Microsoft.Owin.Security.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Newtonsoft.Json.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Net.Http.Formatting.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.Http.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.Http.Cors.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.Http.OData.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.Http.Owin.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.Http.Tracing.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.Http.WebHost.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.Helpers.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.Mvc.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.Razor.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.WebPages.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.WebPages.Deployment.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Web.WebPages.Razor.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Microsoft.Data.Edm.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\Microsoft.Data.OData.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\System.Spatial.xml
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\de\Microsoft.Data.OData.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\es\Microsoft.Data.OData.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\it\Microsoft.Data.OData.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\de\System.Spatial.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\es\System.Spatial.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\fr\System.Spatial.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\it\System.Spatial.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\ja\System.Spatial.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\ko\System.Spatial.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\ru\System.Spatial.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\zh-Hans\System.Spatial.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\zh-Hant\System.Spatial.resources.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\obj\Debug\MyAPI.csprojResolveAssemblyReference.cache
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\obj\Debug\MyAPI.Migrations.InitialCreate.resources
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\obj\Debug\MyAPI.csproj.GenerateResource.Cache
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\obj\Debug\MyAPI.dll
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\obj\Debug\MyAPI.pdb
+E:\Google Drive\Study Resource\4_HKI\CNMTPTPM\DA cuoi ky\Source\Transplay\MyAPI\bin\FacebookGraphAPI.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\MyAPI.dll.config
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\MyAPI.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\MyAPI.pdb
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Antlr3.Runtime.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\FacebookGraphAPI.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Microsoft.Data.Edm.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Microsoft.Data.OData.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Microsoft.Owin.Cors.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Microsoft.Owin.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Newtonsoft.Json.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Owin.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\ServicePointManagerExtensions.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Spatial.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.Cors.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.Helpers.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.Http.Cors.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.Http.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.Http.OData.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.Http.Owin.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.Http.Tracing.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.Mvc.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.Optimization.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.Providers.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.Razor.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.WebPages.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\WebGrease.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Microsoft.Owin.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Microsoft.Owin.Cors.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Newtonsoft.Json.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.Http.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.Http.Cors.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.Http.OData.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.Http.Owin.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.Http.Tracing.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.Helpers.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.Mvc.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.Razor.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.WebPages.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Microsoft.Data.Edm.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Microsoft.Data.OData.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Spatial.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\de\System.Spatial.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\es\System.Spatial.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\fr\System.Spatial.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\it\System.Spatial.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\ja\System.Spatial.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\ko\System.Spatial.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\ru\System.Spatial.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\obj\Debug\MyAPI.csprojResolveAssemblyReference.cache
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\obj\Debug\MyAPI.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\obj\Debug\MyAPI.pdb
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\obj\Debug\MyAPI.Migrations.InitialCreate.resources
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\obj\Debug\MyAPI.csproj.GenerateResource.Cache
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Net.Http.Extensions.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Net.Http.Primitives.dll
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\Antlr3.Runtime.pdb
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Net.Http.Extensions.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Net.Http.Primitives.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.Optimization.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\bin\System.Web.Providers.xml
+C:\Users\quang\Documents\Transplay\Source\Transplay\MyAPI\obj\Debug\MyAPI.csproj.App.config
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\MyAPI.dll.config
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\MyAPI.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\MyAPI.pdb
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Antlr3.Runtime.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\FacebookGraphAPI.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Microsoft.Data.Edm.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Microsoft.Data.OData.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Microsoft.Owin.Cors.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Microsoft.Owin.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Newtonsoft.Json.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Owin.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\ServicePointManagerExtensions.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Net.Http.Extensions.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Net.Http.Primitives.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Spatial.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.Cors.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.Helpers.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.Http.Cors.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.Http.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.Http.OData.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.Http.Owin.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.Http.Tracing.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.Mvc.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.Optimization.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.Providers.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.Razor.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.WebPages.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\WebGrease.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Antlr3.Runtime.pdb
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Microsoft.Data.Edm.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Microsoft.Data.OData.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Microsoft.Owin.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Microsoft.Owin.Cors.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\Newtonsoft.Json.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Net.Http.Extensions.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Net.Http.Primitives.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Spatial.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.Helpers.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.Http.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.Http.Cors.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.Http.OData.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.Http.Owin.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.Http.Tracing.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.Mvc.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.Optimization.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.Providers.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.Razor.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.WebPages.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\de\System.Spatial.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\es\System.Spatial.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\fr\System.Spatial.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\it\System.Spatial.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\ja\System.Spatial.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\ko\System.Spatial.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\ru\System.Spatial.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\obj\Debug\MyAPI.csproj.App.config
+C:\Users\quang\Documents\transplayserverapi\MyAPI\obj\Debug\MyAPI.csprojResolveAssemblyReference.cache
+C:\Users\quang\Documents\transplayserverapi\MyAPI\obj\Debug\MyAPI.Migrations.InitialCreate.resources
+C:\Users\quang\Documents\transplayserverapi\MyAPI\obj\Debug\MyAPI.csproj.GenerateResource.Cache
+C:\Users\quang\Documents\transplayserverapi\MyAPI\obj\Debug\MyAPI.dll
+C:\Users\quang\Documents\transplayserverapi\MyAPI\obj\Debug\MyAPI.pdb
